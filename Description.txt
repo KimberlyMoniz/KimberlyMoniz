@@ -1,0 +1,30 @@
+Description : 
+This project is the offical website of my personal brand Kimberly Moniz
+
+ <div class="jumbotron bg-pink mx-auto">
+        <div class="row center">
+            <div class="col ms-10">
+                <div class="my-4 ms-10"> 
+                    <img src="Kimberly_Moniz-Logo.png" width="200" height="200" alt="">
+                </div>
+
+
+              </div>
+              <!--
+            <div class="col center padding-4">
+                <h1 class="display-4 padding-4 font-weight-bold"><b>Kimberly Moniz</b></h1>
+                <div class="my-4"> 
+                    MediaTechPreneur <br>
+                    
+                    Founder of Kimberly MediaTech Consultancy<br>
+                    Founder of Kimberly Moniz (Personal Brand) <br>
+                    Founder of Dolphin MediaTech <br>
+                    Founder of Holy Bible Education (YouTube) <br>
+                    Founder of Sharing the Joy of Reading (Instagram) <br>
+                    
+                    Cross Platform Application Developer<br>
+                    Udemy Instructor | Medium Creator | Polylinguist 
+                </div>
+              -->
+            </div>
+          </div>

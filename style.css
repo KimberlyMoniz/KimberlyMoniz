@@ -11,6 +11,9 @@ padding-4{
     padding-right: 100px;
 
 }
+
+
+
 .my-button
 {
     height: 170px;
@@ -19,3 +22,24 @@ padding-4{
     
     
 }
+.bg-white
+{
+    background-color: #FFF6FB;
+}
+.bg-lightpink
+{
+    background-color: #FFBEE3;
+}
+.bg-mediumpink
+{
+    background-color: #FC5BB6;
+}
+.bg-darkpink
+{
+   background-color: #FF0592;
+}
+.tabtext{
+    font-family: 'Pacifico', cursive;
+}
+
+
